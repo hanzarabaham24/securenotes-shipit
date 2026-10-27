@@ -7,9 +7,9 @@
    contrast tests pass. (test_accessibility.py does the math for you.) */
 
 :root {
-  --ink:     #9AA0C7;   /* body text   — TODO: too light on white */
+  --ink:     #1F2340;   /* body text: dark navy, ~15:1 on white */
   --surface: #FFFFFF;   /* page background                        */
-  --brand:   #12A594;   /* buttons     — TODO: white text on this is too faint */
+  --brand:   #0B6E63;   /* buttons: deep teal, ~6:1 with white text */
   --muted:   #5A5F7A;
   --line:    #D8DBEC;
 }
